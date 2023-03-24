@@ -1,0 +1,36 @@
+html {
+  height: 200%;
+  width: 100%;
+  background-color: #4e5079;
+  color: #ffffff;
+  font-family: "Courier New", monospace;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+a {
+  color: #171754;
+}
+a:hover {
+  color: #171754;
+}
+a:visited {
+  color:#171754;
+}
+a:active {
+  color: #171754;
+}
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+footer {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
